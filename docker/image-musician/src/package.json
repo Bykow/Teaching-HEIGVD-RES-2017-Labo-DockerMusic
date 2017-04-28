@@ -1,0 +1,7 @@
+{
+	"name" : "image-musician",
+	"version" : "1.0.0",
+	"dependencies" : {
+		"uuid" : "latest"
+	}
+}
